@@ -3,8 +3,6 @@
 A fun and interactive **Discord bot** where users can play with virtual pets like a **cat**, **dog**, and **dragon** through clickable buttons and GIFs!
 
 ![Bot Screenshot](./assets/demo1.png)
-![Bot Screenshot](./assets/demo2.png)
-![Bot Screenshot](./assets/demo3.png) 
 
 ---
 
@@ -16,6 +14,9 @@ A fun and interactive **Discord bot** where users can play with virtual pets lik
 - 📸 Embedded GIFs or images of pets.
 - 🔐 Ephemeral messages – responses are only visible to the clicking user.
 - 🔧 Easily expandable with more pets or actions.
+
+![Bot Screenshot](./assets/demo2.png)
+![Bot Screenshot](./assets/demo3.png) 
 
 ---
 

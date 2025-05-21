@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code settings (optional)
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Data files or logs (optional, depending on use case)
+*.log
+*.db
+*.sqlite3
+
+# Environment variables file (if used)
+.env
+
+# Ignore macOS system files
+.DS_Store

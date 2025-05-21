@@ -1,0 +1,120 @@
+{
+    "685546737342873618": {
+        "cat": {
+            "name": "Whiskers",
+            "happiness": 80,
+            "hunger": 71,
+            "last_interaction": "2025-05-22T01:30:44.261011",
+            "energy": 16,
+            "level": 1,
+            "exp": 30,
+            "current_activity": "relaxing",
+            "activity_until": null,
+            "toys": [
+                "yarn ball",
+                "mouse toy"
+            ],
+            "tricks": [
+                "paw",
+                "sit"
+            ]
+        },
+        "dog": {
+            "name": "Buddy",
+            "happiness": 34,
+            "hunger": 69,
+            "last_interaction": "2025-05-22T03:46:31.669500",
+            "energy": 59,
+            "level": 1,
+            "exp": 3,
+            "current_activity": "relaxing",
+            "activity_until": null,
+            "toys": [
+                "tennis ball",
+                "rope"
+            ],
+            "tricks": [
+                "sit",
+                "roll over"
+            ]
+        },
+        "dragon": {
+            "name": "Ember",
+            "happiness": 12,
+            "hunger": 2,
+            "last_interaction": "2025-05-21T23:40:50.060413",
+            "energy": 2,
+            "level": 1,
+            "exp": 0,
+            "current_activity": "relaxing",
+            "activity_until": null,
+            "toys": [
+                "magical orb",
+                "treasure chest"
+            ],
+            "tricks": [
+                "flame breath",
+                "fly"
+            ]
+        }
+    },
+    "770723907241246752": {
+        "cat": {
+            "name": "Whiskers",
+            "happiness": 65,
+            "hunger": 65,
+            "energy": 15,
+            "level": 1,
+            "exp": 7,
+            "last_interaction": "2025-05-22T01:45:05.602188",
+            "current_activity": "relaxing",
+            "activity_until": null,
+            "toys": [
+                "yarn ball",
+                "mouse toy"
+            ],
+            "tricks": [
+                "paw",
+                "sit"
+            ]
+        },
+        "dog": {
+            "name": "Buddy",
+            "happiness": 50,
+            "hunger": 50,
+            "energy": 50,
+            "level": 1,
+            "exp": 0,
+            "last_interaction": null,
+            "current_activity": "relaxing",
+            "activity_until": null,
+            "toys": [
+                "tennis ball",
+                "rope"
+            ],
+            "tricks": [
+                "sit",
+                "roll over"
+            ]
+        },
+        "dragon": {
+            "name": "Ember",
+            "happiness": 50,
+            "hunger": 50,
+            "energy": 50,
+            "level": 1,
+            "exp": 0,
+            "last_interaction": null,
+            "current_activity": "relaxing",
+            "activity_until": null,
+            "toys": [
+                "magical orb",
+                "treasure chest"
+            ],
+            "tricks": [
+                "flame breath",
+                "fly"
+            ]
+        }
+    }
+}

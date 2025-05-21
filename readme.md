@@ -32,7 +32,7 @@ A fun and interactive **Discord bot** where users can play with virtual pets lik
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/virtual-pet-bot.git
+git clone https://github.com/thakshana02/Discord-pet-bot.git
 cd virtual-pet-bot
 
 # (Optional) Create a virtual environment
